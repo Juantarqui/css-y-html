@@ -1,0 +1,36 @@
+.relleno1{
+    width: 100px;
+    height: 100px;
+    border: blue solid 9px ;
+    padding: 20px;
+    text-align: center;
+}
+.relleno2{
+    width: 100px;
+    height: 100px;
+    border: blueviolet solid 9px ;
+    padding-top: 20px;
+    text-align: center;
+}
+.relleno3{
+    width: 100px;
+    height: 100px;
+    border: aqua solid 9px ;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.relleno4{
+    width: 100px;
+    height: 100px;
+    border: red solid 9px ;
+    padding-left: 20px;
+    text-align: center;
+}
+.relleno5{
+    width: 100px;
+    height: 100px;
+    border: violet solid 9px ;
+    padding-right: 20px;
+    text-align: center;
+}
